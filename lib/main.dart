@@ -12,7 +12,7 @@ void main() {
           backgroundColor: Colors.black12,
         ),
         body: Center(
-          child: Image(  image: AssetImage('Images/index.png'),
+          child: Image(  image: AssetImage('Images/index.png' ),
             // NetworkImage('https://picsum.photos/200'),
           ),
         ),
